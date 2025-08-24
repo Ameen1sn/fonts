@@ -1,13 +1,13 @@
 
 @font-face {
-font-family: "Alfares";
+font-family: "BalooBhaijaan2";
 font-style: normal;
 src: url(Alfares.ttf) format("ttf");
 font-display: auto;
 }
 
 @font-face {
-font-family: "Alfares";
+font-family: "BalooBhaijaan2";
 font-style: normal;
 font-weight: 700;
 src: url(Alfares.ttf) format("truetype");
@@ -17,7 +17,7 @@ U+FEFF, U+FFFD;
 }
 
 body {
-font-family: "Alfares", cursive;
+font-family: "BalooBhaijaan2", cursive;
 text-align: center;
 }
 
